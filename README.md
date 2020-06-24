@@ -5,4 +5,8 @@ A demonstration video of the TacLINK (tactile robotic links) can be viewed at:
 
 http://bit.ly/TacLINK
 
-The source of the 3-D model and MATLAB code is coming soon.
+The source of TacLINK is coming soon.
+
+Contact information:
+Duong Van Lac
+Email: duonglacbk@gmail.com
