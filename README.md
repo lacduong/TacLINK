@@ -12,7 +12,7 @@ https://drive.google.com/file/d/1HDXrRUIAFVCA3KlHiQHdqddcAteuDw3R/view
   <iframe
       width="640"
       height="480"
-      src="https://drive.google.com/file/d/1HDXrRUIAFVCA3KlHiQHdqddcAteuDw3R/view"
+      src="https://drive.google.com/file/d/1HDXrRUIAFVCA3KlHiQHdqddcAteuDw3R"
       frameborder="0"
       allowfullscreen="">
   </iframe>
