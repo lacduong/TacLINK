@@ -8,7 +8,7 @@ or
 https://drive.google.com/file/d/1HDXrRUIAFVCA3KlHiQHdqddcAteuDw3R/view
 
 
-<iframe src="https://drive.google.com/file/d/1HDXrRUIAFVCA3KlHiQHdqddcAteuDw3R/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1HDXrRUIAFVCA3KlHiQHdqddcAteuDw3R/preview" width="1280" height="720"></iframe>
 
 The source of TacLINK is coming soon.
 
