@@ -8,7 +8,7 @@ https://lacduong.github.io/TacLINK/
 or
 http://bit.ly/TacLINK
 
-<iframe src="https://drive.google.com/file/d/1HDXrRUIAFVCA3KlHiQHdqddcAteuDw3R/preview" width="700" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1HDXrRUIAFVCA3KlHiQHdqddcAteuDw3R/preview" width="850" height="480"></iframe>
 
 Contact information:
 
