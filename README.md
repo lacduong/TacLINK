@@ -5,12 +5,9 @@ The source of TacLINK is coming soon.
 
 <img src="https://github.com/lacduong/TacLINK/blob/master/TacLINK.jpg" width="1200"> 
 
-A demonstration video of the TacLINK (a tactile sensing system for robotic links) can be viewed at:
-http://bit.ly/TacLINK
-or
-https://lacduong.github.io/TacLINK/
+# A demonstration video of the TacLINK (a tactile sensing system for robotic links) can be viewed at: http://bit.ly/TacLINK or
 
-(https://github.com/lacduong/TacLINK/blob/master/TacLINK.jpg)](https://drive.google.com/file/d/1HDXrRUIAFVCA3KlHiQHdqddcAteuDw3R/preview)
+[![Check video !](https://github.com/lacduong/TacLINK/blob/master/TacLINK.PNG)](https://drive.google.com/file/d/1HDXrRUIAFVCA3KlHiQHdqddcAteuDw3R/preview)
 
 
 <iframe src="https://drive.google.com/file/d/1HDXrRUIAFVCA3KlHiQHdqddcAteuDw3R/preview" width="850" height="480"></iframe>
