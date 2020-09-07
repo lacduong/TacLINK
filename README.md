@@ -1,8 +1,8 @@
 # DUONG et all. Large-Scale Vision-Based Tactile Sensing for Robot Links: Design, Modeling, and Evaluation
 This research was accepted to publish in IEEE Transactions on Robotics (T-RO):
-- [February 23, 2020: Submission]
-- [May 6, 2020: Conditionally accepted as Regular [CR] (with 8 reviewers)]
-- [August 30, 2020: Accepted as Regular [AR]]
+- February 23, 2020: Submission
+- May 6, 2020: Conditionally accepted as Regular [CR] (with 8 reviewers)
+- August 30, 2020: Accepted as Regular [AR]
 
 A demonstration video of the TacLINK can be viewed at: http://bit.ly/TacLINK or
 [![Check video !](https://github.com/lacduong/TacLINK/blob/master/TacLINK.PNG)](https://drive.google.com/file/d/1HDXrRUIAFVCA3KlHiQHdqddcAteuDw3R/view?usp=sharing)
