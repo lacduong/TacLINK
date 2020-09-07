@@ -5,7 +5,7 @@ This research was accepted to publish in IEEE Transactions on Robotics (T-RO):
 - August 30, 2020: Accepted as Regular [AR]
 
 # Acknowledgement
-We would like to deeply thank the reviewer for taking the time to review the manuscript with valuable comments.
+We would like to deeply thank the reviewers and editor board for taking the time to review the manuscript with valuable comments.
 
 # A demonstration video of the TacLINK can be viewed at: http://bit.ly/TacLINK or
 
@@ -15,7 +15,6 @@ We would like to deeply thank the reviewer for taking the time to review the man
 <img src="https://github.com/lacduong/TacLINK/blob/master/TacLINK.jpg" width="1200"> 
 
 # Contact information:
-
 Lac Van Duong
 
 Email: duonglacbk@gmail.com
