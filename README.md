@@ -12,6 +12,6 @@ http://bit.ly/TacLINK or
 
 # Contact information:
 
-Duong Van Lac
+Lac Van Duong
 
 Email: duonglacbk@gmail.com
