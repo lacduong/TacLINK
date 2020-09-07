@@ -4,6 +4,8 @@ A demonstration video of the TacLINK can be viewed at: http://bit.ly/TacLINK or
 
 # The source of TacLINK (a tactile sensing system for robotic links) is coming soon.
 <img src="https://github.com/lacduong/TacLINK/blob/master/TacLINK.jpg" width="800"> 
+
 # Contact information:
+
 Lac Van Duong
 Email: duonglacbk@gmail.com
