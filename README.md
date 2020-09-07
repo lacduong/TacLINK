@@ -10,6 +10,9 @@ http://bit.ly/TacLINK
 or
 https://lacduong.github.io/TacLINK/
 
+(https://github.com/lacduong/TacLINK/blob/master/TacLINK.jpg)](https://drive.google.com/file/d/1HDXrRUIAFVCA3KlHiQHdqddcAteuDw3R/preview)
+
+
 <iframe src="https://drive.google.com/file/d/1HDXrRUIAFVCA3KlHiQHdqddcAteuDw3R/preview" width="850" height="480"></iframe>
 
 Contact information:
