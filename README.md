@@ -11,7 +11,7 @@ This research was accepted to publish in IEEE Transactions on Robotics (T-RO):
 # The open source of TacLINK (a tactile sensing system for robotic links) is coming soon.
 <img src="https://github.com/lacduong/TacLINK/blob/master/TacLINK.jpg" width="1200"> 
 
-# Contact information:
+# Contact information
 Lac Van Duong
 
 Email: duonglacbk@gmail.com
