@@ -4,9 +4,9 @@ This research was accepted to publish in IEEE Transactions on Robotics (T-RO):
 - May 6, 2020: Conditionally accepted as Regular [CR] (with 8 reviewers)
 - August 30, 2020: Accepted as Regular [AR]
 
-# A demonstration video of the TacLINK can be viewed at: http://bit.ly/TacLINK or
+# A demonstration video of the TacLINK can be viewed at:
 
-[![Check video !](https://github.com/lacduong/TacLINK/blob/master/TacLINK.PNG)](https://youtu.be/1zHOD3cJVys)
+[![Check video http://bit.ly/TacLINK !](https://github.com/lacduong/TacLINK/blob/master/TacLINK.PNG)](https://youtu.be/1zHOD3cJVys)
 
 # The open source of TacLINK (a tactile sensing system for robotic links) is coming soon.
 <img src="https://github.com/lacduong/TacLINK/blob/master/TacLINK.jpg" width="1200"> 
