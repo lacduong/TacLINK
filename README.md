@@ -18,4 +18,4 @@ Email: duonglacbk@gmail.com
 
 
 # Acknowledgement
-We would like to deeply thank the reviewer and editorial board for taking the time to review our work with insightful comments.
+We would like to deeply thank the reviewer and editorial board for taking the time to review our paper.
