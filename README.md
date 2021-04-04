@@ -17,15 +17,15 @@ This research was accepted to publish in IEEE Transactions on Robotics (T-RO):
 1) The 3-D model of TacLINK: TacLINK_version1.stp 
 https://github.com/lacduong/TacLINK/blob/master/model/TacLINK_version1.stp
 
-<img src="https://github.com/lacduong/TacLINK/blob/master/model/TacLINK_version1.PNG" width="1000"> 
+<img src="https://github.com/lacduong/TacLINK/blob/master/model/TacLINK_version1.PNG" width="500"> 
 
 2) The 3-D model of casting mold for the skin: CastingMold.stp 
 
 https://github.com/lacduong/TacLINK/blob/master/model/CastingMold.stp
 
-<img src="https://github.com/lacduong/TacLINK/blob/master/model/CastingMold.PNG" width="1000"> 
+<img src="https://github.com/lacduong/TacLINK/blob/master/model/CastingMold.PNG" width="500"> 
 
-#[upcoming]: The source code of TacLINK is coming soon ...
+# (upcoming) The source code of TacLINK is coming soon ...
 
 # Contact information
 Lac Van Duong
