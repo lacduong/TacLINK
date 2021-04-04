@@ -15,7 +15,7 @@ This research was accepted to publish in IEEE Transactions on Robotics (T-RO):
 </p>
 
 # The 3-D design models of TacLINK are opened 
-1) The 3-D model of TacLINK: TacLINK.stp 
+1) The 3-D prototype model of TacLINK: TacLINK.stp 
 https://github.com/lacduong/TacLINK/blob/master/model/TacLINK.stp
 
 <p align="center">
