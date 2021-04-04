@@ -14,7 +14,7 @@ This research was accepted to publish in IEEE Transactions on Robotics (T-RO):
 <img src="https://github.com/lacduong/TacLINK/blob/master/TacLINK.jpg" width="600"> 
 </p>
 
-# The 3-D design models of TacLINK are opened 
+# The 3-D mechanical designs of TacLINK are opened 
 1) The 3-D prototype model of TacLINK: TacLINK.stp 
 https://github.com/lacduong/TacLINK/blob/master/model/TacLINK.stp
 
