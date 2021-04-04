@@ -9,7 +9,7 @@ This research was accepted to publish in IEEE Transactions on Robotics (T-RO):
 [![Check video http://bit.ly/TacLINK !](https://github.com/lacduong/TacLINK/blob/master/TacLINK.PNG)](https://youtu.be/1zHOD3cJVys)
 
 
-# A picture of TacLINK (a tactile sensing system for robotic links)
+# A picture of TacLINK (a tactile sensing system for robot links)
 <p align="center">
 <img src="https://github.com/lacduong/TacLINK/blob/master/TacLINK.jpg" width="600"> 
 </p>
