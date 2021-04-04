@@ -34,7 +34,7 @@ https://github.com/lacduong/TacLINK/blob/master/model/CastingMold.stp
 # (upcoming) The source code of TacLINK is coming soon ...
 
 # Contact information
-Lac Van Duong
+Duong Van Lac
 
 Email: duonglacbk@gmail.com
 
