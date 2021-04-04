@@ -25,6 +25,7 @@ https://github.com/lacduong/TacLINK/blob/master/model/CastingMold.stp
 
 <img src="https://github.com/lacduong/TacLINK/blob/master/model/CastingMold.PNG" width="1000"> 
 
+#[upcoming]: The source code of TacLINK is coming soon ...
 
 # Contact information
 Lac Van Duong
