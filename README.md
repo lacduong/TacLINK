@@ -16,11 +16,13 @@ This research was accepted to publish in IEEE Transactions on Robotics (T-RO):
 
 # The 3-D mechanical designs of TacLINK are opened 
 1) The 3-D prototype model of TacLINK: TacLINK.stp 
+
 https://github.com/lacduong/TacLINK/blob/master/model/TacLINK.stp
 
 <p align="center">
 <img width="600" src="https://github.com/lacduong/TacLINK/blob/master/model/TacLINK.PNG" > 
 </p>
+
 2) The 3-D model of casting mold for the skin: CastingMold.stp 
 
 https://github.com/lacduong/TacLINK/blob/master/model/CastingMold.stp
