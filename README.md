@@ -4,6 +4,8 @@ This research was accepted to publish in IEEE Transactions on Robotics (T-RO):
 - May 6, 2020: Conditionally accepted as Regular [CR] (with 8 reviewers)
 - August 30, 2020: Accepted as Regular [AR]
 
+Online at:
+
 https://ieeexplore.ieee.org/document/9247533
 
 DOI: https://doi.org/10.1109/TRO.2020.3031251
