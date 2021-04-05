@@ -8,14 +8,19 @@ https://ieeexplore.ieee.org/document/9247533
 
 DOI: https://doi.org/10.1109/TRO.2020.3031251
 
-# A demonstration video of TacLINK can be viewed here
+# A demonstration video of TacLINK (a tactile sensing system for robot links) can be viewed here
 
 [![Check video http://bit.ly/TacLINK !](https://github.com/lacduong/TacLINK/blob/master/TacLINK.PNG)](https://youtu.be/1zHOD3cJVys)
 
 
-# A picture of TacLINK (a tactile sensing system for robot links)
+# These pictures of TacLINK can be used for citing:
 <p align="center">
 <img src="https://github.com/lacduong/TacLINK/blob/master/TacLINK.jpg" width="600"> 
+</p>
+
+
+<p align="center">
+<img src="https://github.com/lacduong/TacLINK/blob/master/pic2.jpg" width="600"> 
 </p>
 
 # The 3-D mechanical designs of TacLINK are opened 
