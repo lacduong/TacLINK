@@ -4,7 +4,7 @@ This research was accepted to publish in IEEE Transactions on Robotics (T-RO):
 - May 6, 2020: Conditionally accepted as Regular [CR] (with 8 reviewers)
 - August 30, 2020: Accepted as Regular [AR]
 
-L. Van Duong and V. A. Ho, "Large-Scale Vision-Based Tactile Sensing for Robot Links: Design, Modeling, and Evaluation," in IEEE Transactions on Robotics, vol. 37, no. 2, pp. 390-403, April 2021, doi: 10.1109/TRO.2020.3031251.
+L. V.  Duong and V. A. Ho, "Large-Scale Vision-Based Tactile Sensing for Robot Links: Design, Modeling, and Evaluation," in IEEE Transactions on Robotics, vol. 37, no. 2, pp. 390-403, April 2021, doi: 10.1109/TRO.2020.3031251.
 
 Online at:
 
@@ -49,7 +49,7 @@ https://github.com/lacduong/TacLINK/blob/master/model/CastingMold.stp
 # If the source is helpful for you. Please cite our paper 
 
 
-L. Van Duong and V. A. Ho, "Large-Scale Vision-Based Tactile Sensing for Robot Links: Design, Modeling, and Evaluation," in IEEE Transactions on Robotics, vol. 37, no. 2, pp. 390-403, April 2021, doi: 10.1109/TRO.2020.3031251.
+L. V.  Duong and V. A. Ho, "Large-Scale Vision-Based Tactile Sensing for Robot Links: Design, Modeling, and Evaluation," in IEEE Transactions on Robotics, vol. 37, no. 2, pp. 390-403, April 2021, doi: 10.1109/TRO.2020.3031251.
 
 # Contact information
 Duong Van Lac
