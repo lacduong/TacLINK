@@ -44,7 +44,7 @@ https://github.com/lacduong/TacLINK/blob/master/model/CastingMold.stp
 <img  width="600" src="https://github.com/lacduong/TacLINK/blob/master/model/CastingMold.PNG"> 
 </p>
 
-# (upcoming) The source code of TacLINK is coming soon ...
+# (upcoming) The guide for implementation of TacLINK is coming soon ...
 
 # If the source is helpful for you. Please cite our paper 
 
