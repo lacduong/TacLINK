@@ -1,8 +1,8 @@
 # DUONG et all. Large-Scale Vision-Based Tactile Sensing for Robot Links: Design, Modeling, and Evaluation
 This research was accepted to publish in IEEE Transactions on Robotics (T-RO):
-- February 23, 2020: Submission
-- May 6, 2020: Conditionally accepted as Regular [CR] (with 8 reviewers)
-- August 30, 2020: Accepted as Regular [AR]
+<!--- - February 23, 2020: Submission --->
+<!--- - May 6, 2020: Conditionally accepted as Regular [CR] (with 8 reviewers) --->
+<!--- - August 30, 2020: Accepted as Regular [AR] --->
 
 L. V.  Duong and V. A. Ho, "Large-Scale Vision-Based Tactile Sensing for Robot Links: Design, Modeling, and Evaluation," in IEEE Transactions on Robotics, vol. 37, no. 2, pp. 390-403, April 2021, doi: 10.1109/TRO.2020.3031251.
 
