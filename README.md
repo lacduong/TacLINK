@@ -16,7 +16,6 @@ DOI: https://doi.org/10.1109/TRO.2020.3031251
 
 [![Check video http://bit.ly/TacLINK !](https://github.com/lacduong/TacLINK/blob/master/TacLINK.PNG)](https://youtu.be/1zHOD3cJVys)
 
-
 # These pictures of TacLINK can be used for citing:
 <p align="center">
 <img src="https://github.com/lacduong/TacLINK/blob/master/TacLINK.jpg" width="600"> 
@@ -44,15 +43,13 @@ https://github.com/lacduong/TacLINK/blob/master/model/CastingMold.stp
 <img  width="600" src="https://github.com/lacduong/TacLINK/blob/master/model/CastingMold.PNG"> 
 </p>
 
-# (upcoming) The guide for implementation of TacLINK is coming soon ...
-
-# If the source is helpful for you. Please cite our paper 
-
-
-L. V.  Duong and V. A. Ho, "Large-Scale Vision-Based Tactile Sensing for Robot Links: Design, Modeling, and Evaluation," in IEEE Transactions on Robotics, vol. 37, no. 2, pp. 390-403, April 2021, doi: 10.1109/TRO.2020.3031251.
+# The guide for implementation the TacLINK is coming soon...
 
 # Contact information
-Duong Van Lac
 
+Duong Van Lac
 Email: duonglacbk@gmail.com
+
+The work on this website is based on my volunteer work without any financial support and sponsorship, so it may take time to complete this website. If you interest please feel free to contact me. If the source is helpful for you, please support me by citing the paper.
+
 
