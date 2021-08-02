@@ -48,6 +48,7 @@ https://github.com/lacduong/TacLINK/blob/master/model/CastingMold.stp
 # Contact information
 
 Duong Van Lac
+
 Email: duonglacbk@gmail.com
 
 The work on this website is based on my volunteer work without any financial support and sponsorship, so it may take time to complete this website. If you interest please feel free to contact me. If the source is helpful for you, please support me by citing the paper.
