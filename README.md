@@ -23,11 +23,11 @@ DOI: https://doi.org/10.1109/TRO.2020.3031251
 
 
 # The 3-D mechanical designs of TacLINK are now available 
-1) The 3-D prototype model of TacLINK: TacLINK.stp 
+1) The 3-D design of TacLINK: TacLINK.stp 
 
 https://github.com/lacduong/TacLINK/blob/master/model/TacLINK.stp
 
-2) The 3-D model of casting mold for the skin: CastingMold.stp 
+2) The 3-D mold for casting the skin: CastingMold.stp 
 
 https://github.com/lacduong/TacLINK/blob/master/model/CastingMold.stp
 
