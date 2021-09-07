@@ -1,0 +1,187 @@
+\relax 
+\citation{Soni}
+\citation{Shih}
+\citation{Zang}
+\citation{Kwon}
+\citation{Chortos}
+\citation{Lee}
+\citation{Sundaram}
+\citation{Amjadi}
+\citation{Wang}
+\citation{Ravinder}
+\citation{Schmitz}
+\citation{Philipp}
+\citation{Quentin}
+\citation{Cheng}
+\citation{Shimonomura}
+\citation{Alexander}
+\citation{Yuan}
+\citation{Sato}
+\citation{Ward}
+\@writefile{toc}{\contentsline {section}{\numberline {I}Introduction}{1}}
+\citation{Ito}
+\citation{Greminger}
+\citation{Reddy}
+\citation{Yuan}
+\citation{Aviles}
+\citation{Duriez}
+\citation{Duong}
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces (Left) Configuration of the robot links (i.e., TacLINK) with large-scale tactile sensation. (Right) Sketch of a collaborative robot (UR5) equipped with TacLINK, enabling safe and intelligent interaction through the sense of touch.}}{2}}
+\newlabel{fig_design}{{1}{2}}
+\@writefile{toc}{\contentsline {section}{\numberline {II}System Design}{2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {II-A}}Structure and Principle}{2}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces Casting for skin fabrication. (a) The 3-D printable parts of casting mold. (b) Filling holes of the inner mold with silicone to cast the markers. (c) Inside and top view of the actual soft skin body with distributed markers.}}{3}}
+\newlabel{fig_fabrication}{{2}{3}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {II-B}}Artificial Skin}{3}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces Configuration of the proposed stereo camera. We imposed that the world coordinate system (WCS) $XYZ$ located on the baseline. Its origin coincided with the center of the first end, and $X$-axis was parallel to the $X_{c_1}$- and $X_{c_2}$-axes of the camera frames $X_{c_1}Y_{c_1}Z_{c_1}$ and $X_{c_2}Y_{c_2}Z_{c_2}$. Note that the image of camera 2 was flipped over its $y_2$-axis to unify the direction of the coordinates of the two images. Thus, the image coordinates on the $x_1,x_2$- and $y_1,y_2$-axes were in the same directions as the $X$ and $Y$-axes of WCS, respectively.}}{3}}
+\newlabel{fig_stereo}{{3}{3}}
+\@writefile{toc}{\contentsline {section}{\numberline {III}Vision-Based Model}{3}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {III-A}}Stereo Camera Model}{3}}
+\newlabel{eq_stereo_1}{{1}{3}}
+\citation{Das}
+\newlabel{eq_stereo_r12}{{4}{4}}
+\newlabel{eq_stereo_Z}{{7}{4}}
+\newlabel{eq_stereo_R}{{8}{4}}
+\newlabel{eq_stereo_phi}{{9}{4}}
+\newlabel{eq_stereo_X}{{10}{4}}
+\newlabel{eq_stereo_Y}{{11}{4}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {III-B}}Uncertainty of 3-D Measurement with Digital Camera}{4}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces Stereo variation simulation results illustrating the highest variations of error in the working space. (a) Uncertainty of $Z$ coordinate with deviations $\Delta r_1=-1/\sqrt  {2}, \Delta r_2=1/\sqrt  {2}$. (b) Uncertainty of radial coordinate $\Delta R$ with deviations $\Delta r_1=1/\sqrt  {2}, \Delta r_2=1/\sqrt  {2}$. }}{4}}
+\newlabel{fig_variation}{{4}{4}}
+\newlabel{eq_stereo_dZ}{{12}{4}}
+\newlabel{eq_stereo_dR}{{13}{4}}
+\newlabel{eq_stereo_dZ2}{{14}{4}}
+\newlabel{eq_stereo_dR2}{{15}{4}}
+\citation{Sakuma}
+\citation{Myronenko}
+\citation{Vandini}
+\@writefile{toc}{\contentsline {section}{\numberline {IV}Stereo Implementation}{5}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {IV-A}}Configuration}{5}}
+\newlabel{eq_stereo_16}{{16}{5}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {IV-B}}Non-Rigid Registration of Stereo}{5}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces A scenario for verifying the proposed stereo implementation, in which the TacLINK was in contact with a long cylindrical surface. (a) Stereo images with the proposed intuitive path tracking algorithm. (b) Reconstruction from stereo images of the 3-D deformation of artificial skin.}}{5}}
+\newlabel{fig_performance}{{5}{5}}
+\@writefile{lof}{\contentsline {figure}{\numberline {6}{\ignorespaces The intuitive curve tracking algorithm. Using the proposed objective function with two known anchor points, $\vartheta _0$ and $\vartheta _{n_2}$, the tracking process can trace unknown nodes sequentially $\vartheta _1,\vartheta _2,...,\vartheta _{n_2-1}$.}}{5}}
+\newlabel{fig_tracking}{{6}{5}}
+\newlabel{eq_stereo_close}{{17}{5}}
+\citation{Zhang}
+\newlabel{eq_stereo_smoot}{{18}{6}}
+\newlabel{eq_stereo_obj}{{19}{6}}
+\newlabel{eq_stereo_track}{{20}{6}}
+\newlabel{eq_stereo_roi}{{21}{6}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {IV-C}}3-D Reconstruction}{6}}
+\@writefile{loa}{\contentsline {algorithm}{\numberline {1}{\ignorespaces \textsc  {StereoRegistration($\Phi _1,\Phi _2$)}}}{6}}
+\newlabel{Registration}{{1}{6}}
+\newlabel{algorithm1}{{1}{6}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {IV-D}}Stereo Self-Calibration}{6}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {IV-D}1}Estimation of Camera Parameters}{6}}
+\citation{Fitzgibbon}
+\@writefile{lot}{\contentsline {table}{\numberline {I}{\ignorespaces Self-Calibration Results of Stereo Camera Parameters $(\mu \pm \sigma )$}}{7}}
+\newlabel{table_stereo}{{I}{7}}
+\newlabel{eq_stereo_cali}{{23}{7}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {IV-D}2}Correction of Lens Distortion}{7}}
+\newlabel{eq_stereo_r1}{{24}{7}}
+\newlabel{eq_stereo_r2}{{25}{7}}
+\newlabel{eq_stereo_dis}{{26}{7}}
+\@writefile{lof}{\contentsline {figure}{\numberline {7}{\ignorespaces Calibration results for each iteration: RMSE of coordinates for estimating stereo parameters and lens distortion.}}{7}}
+\newlabel{fig_iteration}{{7}{7}}
+\@writefile{lof}{\contentsline {figure}{\numberline {8}{\ignorespaces Illustration of the initial 3-D position of markers (roundly marked) using the calibrated parameters.}}{7}}
+\newlabel{fig_calib3D}{{8}{7}}
+\citation{Onate}
+\citation{Onate}
+\citation{Young}
+\@writefile{toc}{\contentsline {section}{\numberline {V}FE Model of Artificial Skin}{8}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {V-A}}Meshing and Geometry of the Element}{8}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {V-B}}FE Equations and Simulation}{8}}
+\newlabel{eq_fem_pvw}{{27}{8}}
+\@writefile{lof}{\contentsline {figure}{\numberline {9}{\ignorespaces Three-dimensional FE model for artificial skin. (a) Finite element mesh of $N_{\text  {e}}=264$ elements and $N=288$ nodes. (b) Mesh topology. (c) Geometry of a rectangular flat shell element.}}{8}}
+\newlabel{fig_model}{{9}{8}}
+\newlabel{eq_fem_localeq}{{28}{8}}
+\newlabel{eq_fem_globaleq}{{29}{8}}
+\newlabel{eq_fem_equation}{{30}{8}}
+\newlabel{eq_fem_boundary}{{31}{8}}
+\@writefile{lot}{\contentsline {table}{\numberline {II}{\ignorespaces Nomenclature for Section V and VI}}{9}}
+\newlabel{table3}{{II}{9}}
+\@writefile{toc}{\contentsline {section}{\numberline {VI}FE Model-based Tactile Force Sensing}{9}}
+\newlabel{eq_fem_force}{{32}{9}}
+\newlabel{eq_fem_dis}{{33}{9}}
+\@writefile{lof}{\contentsline {figure}{\numberline {10}{\ignorespaces FE model simulation results for soft artificial skin. (a) Skin deformation by a normal force $0.2$\tmspace  +\thinmuskip {.1667em}N at node \#127(7,5). (b) Response of skin to additional inner air pressure $\mathsf  {P}=0.5$\tmspace  +\thinmuskip {.1667em}kPa.}}{9}}
+\newlabel{fig_simulation}{{10}{9}}
+\newlabel{eq_fem_nforce}{{34}{9}}
+\@writefile{toc}{\contentsline {section}{\numberline {VII}Experimental Validation}{9}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {VII-A}}Experimental Platform}{9}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {VII-B}}Assessment of the Accuracy of 3-D Reconstruction}{10}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {VII-C}}Young's Modulus Calibration}{10}}
+\newlabel{eq_experiment_calib}{{35}{10}}
+\newlabel{eq_experiment_E}{{36}{10}}
+\@writefile{lof}{\contentsline {figure}{\numberline {11}{\ignorespaces The experimental platform with all related equipment for measurement. A robot arm was equipped to push the elastic skin through a probe attached to the end-effector through a 3-axes force sensor.}}{10}}
+\newlabel{fig_experiment}{{11}{10}}
+\@writefile{lof}{\contentsline {figure}{\numberline {12}{\ignorespaces Measured displacements of ten nodes on a path were compared with true deflections created by robot motion.}}{10}}
+\newlabel{fig_accurancy}{{12}{10}}
+\@writefile{lof}{\contentsline {figure}{\numberline {13}{\ignorespaces Comparison of experimental data (solids) and calibrated FE model (lines) of skin curvature in response to applied inner pressures of $0.5,1,$ and $1.5$\tmspace  +\thinmuskip {.1667em}kPa, estimating Young's modulus of the silicone material (Ecoflex 00-50).}}{10}}
+\newlabel{fig_calibration}{{13}{10}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {VII-D}}Evaluation of FE Model-based Tactile Force Sensing}{10}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {VII-D}1}Single-Point Contact}{10}}
+\citation{Yuan}
+\citation{Sato}
+\citation{Ito}
+\citation{Schmitz}
+\citation{Philipp}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {VII-D}2}Multiple Large-Areas Contact}{11}}
+\@writefile{lof}{\contentsline {figure}{\numberline {14}{\ignorespaces Probe forces applied yielding radial deflections $\Delta {R}$ at node \#127 compared with the nodal tactile forces at node \#127 obtained from TacLINK and simulation under different inner air pressures.}}{11}}
+\newlabel{fig_exp_force}{{14}{11}}
+\@writefile{lof}{\contentsline {figure}{\numberline {15}{\ignorespaces Experimental results of tactile force reconstruction on the three-dimensional body of the skin surface. (a) Test with single-point (node) contact at node \#127. (b) Performance with multiple large-area contacts.}}{11}}
+\newlabel{fig_reconstruction}{{15}{11}}
+\@writefile{toc}{\contentsline {section}{\numberline {VIII}Discussion}{11}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {VIII-A}}Limitations}{11}}
+\citation{Belyaev}
+\citation{Onate}
+\citation{Onate}
+\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {VIII-B}}Technical Issues}{12}}
+\@writefile{toc}{\contentsline {section}{\numberline {IX}Conclusion}{12}}
+\newlabel{eq_fem_disp}{{38}{12}}
+\newlabel{eq_fem_strain}{{39}{12}}
+\newlabel{eq_fem_stress}{{40}{12}}
+\citation{Young}
+\bibstyle{IEEEtran}
+\bibcite{Soni}{1}
+\bibcite{Shih}{2}
+\bibcite{Zang}{3}
+\bibcite{Kwon}{4}
+\bibcite{Chortos}{5}
+\bibcite{Lee}{6}
+\bibcite{Sundaram}{7}
+\bibcite{Amjadi}{8}
+\bibcite{Wang}{9}
+\bibcite{Ravinder}{10}
+\bibcite{Shimonomura}{11}
+\bibcite{Alexander}{12}
+\bibcite{Yuan}{13}
+\bibcite{Sato}{14}
+\bibcite{Ward}{15}
+\bibcite{Ito}{16}
+\bibcite{Greminger}{17}
+\bibcite{Reddy}{18}
+\bibcite{Aviles}{19}
+\bibcite{Duriez}{20}
+\bibcite{Schmitz}{21}
+\bibcite{Philipp}{22}
+\bibcite{Quentin}{23}
+\bibcite{Cheng}{24}
+\bibcite{Duong}{25}
+\bibcite{Das}{26}
+\bibcite{Sakuma}{27}
+\bibcite{Myronenko}{28}
+\bibcite{Vandini}{29}
+\bibcite{Zhang}{30}
+\bibcite{Fitzgibbon}{31}
+\bibcite{Onate}{32}
+\bibcite{Young}{33}
+\bibcite{Belyaev}{34}
+\newlabel{eq_fem_stiffness}{{43}{13}}
+\newlabel{eq_fem_pressured}{{44}{13}}
+\newlabel{eq_fem_tran}{{45}{13}}
+\@writefile{toc}{\contentsline {section}{References}{13}}
+\@writefile{toc}{\contentsline {section}{Biographies}{13}}
+\@writefile{toc}{\contentsline {subsection}{Lac Van Duong}{13}}
+\@writefile{toc}{\contentsline {subsection}{Van Anh Ho}{14}}
