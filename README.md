@@ -14,7 +14,7 @@ DOI: https://doi.org/10.1109/TRO.2020.3031251
 
 # A demonstration video of TacLINK (a tactile sensing system for robot links) can be viewed here
 
-[![Check video http://bit.ly/TacLINK !]("https://github.com/lacduong/TacLINK/blob/master/TacLINK.PNG")](https://youtu.be/1zHOD3cJVys)
+[![Check video http://bit.ly/TacLINK !](https://github.com/lacduong/TacLINK/blob/master/TacLINK.PNG)](https://youtu.be/1zHOD3cJVys)
 
 # A pictures of TacLINK can be used for citing:
 <p align="center">
