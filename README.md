@@ -18,7 +18,7 @@ DOI: https://doi.org/10.1109/TRO.2020.3031251
 
 # These pictures of TacLINK can be used for citing:
 <p align="center">
-<img src="https://github.com/lacduong/TacLINK/blob/master/TacLINK%20illustration.png" width="600"> 
+<img src="https://github.com/lacduong/TacLINK/blob/master/TacLINK%20illustration.png" width="900"> 
 </p>
 
 
