@@ -16,15 +16,11 @@ DOI: https://doi.org/10.1109/TRO.2020.3031251
 
 [![Check video http://bit.ly/TacLINK !](https://github.com/lacduong/TacLINK/blob/master/TacLINK.PNG)](https://youtu.be/1zHOD3cJVys)
 
-# These pictures of TacLINK can be used for citing:
+# A pictures of TacLINK can be used for citing:
 <p align="center">
-<img src="https://github.com/lacduong/TacLINK/blob/master/TacLINK.jpg" width="600"> 
+<img src="https://github.com/lacduong/TacLINK/blob/master/TacLINK%20illustration.png" width="900"> 
 </p>
 
-
-<p align="center">
-<img src="https://github.com/lacduong/TacLINK/blob/master/pic2.jpg" width="600"> 
-</p>
 
 # The 3-D mechanical designs of TacLINK are uploaded 
 1) The 3-D prototype model of TacLINK: TacLINK.stp 
