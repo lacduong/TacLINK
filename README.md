@@ -27,17 +27,14 @@ DOI: https://doi.org/10.1109/TRO.2020.3031251
 
 https://github.com/lacduong/TacLINK/blob/master/model/TacLINK.stp
 
-<p align="center">
-<img width="500" src="https://github.com/lacduong/TacLINK/blob/master/source/model/TacLINK.PNG" > 
-</p>
-
 2) The 3-D model of casting mold for the skin: CastingMold.stp 
 
 https://github.com/lacduong/TacLINK/blob/master/model/CastingMold.stp
 
 <p align="center">
-<img  width="500" src="https://github.com/lacduong/TacLINK/blob/master/source/model/CastingMold.PNG"> 
+<img width="900" src="https://github.com/lacduong/TacLINK/blob/master/Source/model/3D%20design.png" > 
 </p>
+
 
 # The guide for implementation the TacLINK is coming soon...
 
