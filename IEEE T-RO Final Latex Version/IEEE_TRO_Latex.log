@@ -1,0 +1,1710 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.5)  7 SEP 2021 17:08
+entering extended mode
+**./IEEE_TRO_Latex.tex
+(IEEE_TRO_Latex.tex
+LaTeX2e <2018-04-01> patch level 5
+("C:\Program Files\MiKTeX 2.9\tex\latex\ieeetran\IEEEtran.cls"
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen102
+\@IEEEtrantmpdimenB=\dimen103
+\@IEEEtrantmpdimenC=\dimen104
+\@IEEEtrantmpcountA=\count80
+\@IEEEtrantmpcountB=\count81
+\@IEEEtrantmpcountC=\count82
+\@IEEEtrantmptoksA=\toks14
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 510.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen105
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen106
+\CLASSINFOnormalsizeunitybaselineskip=\dimen107
+\IEEEnormaljot=\dimen108
+\IEEEquantizedlength=\dimen109
+\IEEEquantizedlengthdiff=\dimen110
+\IEEEquantizedtextheightdiff=\dimen111
+\IEEEilabelindentA=\dimen112
+\IEEEilabelindentB=\dimen113
+\IEEEilabelindent=\dimen114
+\IEEEelabelindent=\dimen115
+\IEEEdlabelindent=\dimen116
+\IEEElabelindent=\dimen117
+\IEEEiednormlabelsep=\dimen118
+\IEEEiedmathlabelsep=\dimen119
+\IEEEiedtopsep=\skip41
+\c@section=\count83
+\c@subsection=\count84
+\c@subsubsection=\count85
+\c@paragraph=\count86
+\c@IEEEsubequation=\count87
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count88
+\c@table=\count89
+\@IEEEeqnnumcols=\count90
+\@IEEEeqncolcnt=\count91
+\@IEEEsubeqnnumrollback=\count92
+\@IEEEquantizeheightA=\dimen120
+\@IEEEquantizeheightB=\dimen121
+\@IEEEquantizeheightC=\dimen122
+\@IEEEquantizeprevdepth=\dimen123
+\@IEEEquantizemultiple=\count93
+\@IEEEquantizeboxA=\box26
+\@IEEEtmpitemindent=\dimen124
+\IEEEPARstartletwidth=\dimen125
+\c@IEEEbiography=\count94
+\@IEEEtranrubishbin=\box27
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\cite\cite.sty"
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\color.sty"
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\soul\soul.sty"
+Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
+\SOUL@word=\toks15
+\SOUL@lasttoken=\toks16
+\SOUL@cmds=\toks17
+\SOUL@buffer=\toks18
+\SOUL@token=\toks19
+\SOUL@spaceskip=\skip44
+\SOUL@ttwidth=\dimen126
+\SOUL@uldp=\dimen127
+\SOUL@ulht=\dimen128
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\ulem\ulem.sty"
+\UL@box=\box28
+\UL@hyphenbox=\box29
+\UL@skip=\skip45
+\UL@hook=\toks20
+\UL@height=\dimen129
+\UL@pe=\count95
+\UL@pixel=\dimen130
+\ULC@box=\box30
+Package: ulem 2012/05/18
+\ULdepth=\dimen131
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip46
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks21
+\ex@=\dimen132
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen133
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count96
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count97
+\leftroot@=\count98
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count99
+\DOTSCASE@=\count100
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box31
+\strutbox@=\box32
+\big@size=\dimen134
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count101
+\c@MaxMatrixCols=\count102
+\dotsspace@=\muskip10
+\c@parentequation=\count103
+\dspbrk@lvl=\count104
+\tag@help=\toks22
+\row@=\count105
+\column@=\count106
+\maxfields@=\count107
+\andhelp@=\toks23
+\eqnshift@=\dimen135
+\alignsep@=\dimen136
+\tagshift@=\dimen137
+\tagwidth@=\dimen138
+\totwidth@=\dimen139
+\lineht@=\dimen140
+\@envbody=\toks24
+\multlinegap=\skip47
+\multlinetaggap=\skip48
+\mathdisplay@stack=\toks25
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2018/04/30 v2.4h Tabular extension package (FMi)
+\col@sep=\dimen141
+\ar@mcellbox=\box33
+\extrarowheight=\dimen142
+\NC@list=\toks26
+\extratabsurround=\skip49
+\backup@length=\skip50
+\ar@cellbox=\box34
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\makecell\makecell.sty"
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+\rotheadsize=\dimen143
+\c@nlinenum=\count108
+\TeXr@lab=\toks27
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\booktabs\booktabs.sty"
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen144
+\lightrulewidth=\dimen145
+\cmidrulewidth=\dimen146
+\belowrulesep=\dimen147
+\belowbottomsep=\dimen148
+\aboverulesep=\dimen149
+\abovetopsep=\dimen150
+\cmidrulesep=\dimen151
+\cmidrulekern=\dimen152
+\defaultaddspace=\dimen153
+\@cmidla=\count109
+\@cmidlb=\count110
+\@aboverulesep=\dimen154
+\@belowrulesep=\dimen155
+\@thisruleclass=\count111
+\@lastruleclass=\count112
+\@thisrulewidth=\dimen156
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
+Package: multirow 2018/08/03 v2.3 Span multiple rows of a table
+\multirow@colwidth=\skip51
+\multirow@cntb=\count113
+\multirow@dima=\skip52
+\bigstrutjot=\dimen157
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\sttools\stfloats.sty"
+Package: stfloats 2017/03/27 v3.3 Improve float mechanism and baselineskip sett
+ings
+\@dblbotnum=\count114
+\c@dblbotnumber=\count115
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\arydshln\arydshln.sty"
+Package: arydshln 2019/02/21 v1.76 
+\dashlinedash=\dimen158
+\dashlinegap=\dimen159
+\adl@box=\box35
+\adl@height=\dimen160
+\adl@heightsave=\dimen161
+\adl@depth=\dimen162
+\adl@depthsave=\dimen163
+\adl@finaldepth=\dimen164
+\adl@columns=\count116
+\adl@ncol=\count117
+\adl@currentcolumn=\count118
+\adl@currentcolumnsave=\count119
+\adl@totalheight=\count120
+\adl@totalheightsave=\count121
+\adl@dash=\count122
+\adl@gap=\count123
+\adl@cla=\count124
+\adl@clb=\count125
+\adl@everyvbox=\toks28
+\adl@LTpagetotal=\dimen165
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\jknappen\mathrsfs.sty"
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup6
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\algorithms\algorithm.sty"
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count126
+\float@exts=\toks29
+\float@box=\box36
+\@float@everytoks=\toks30
+\@floatcapt=\box37
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\@float@every@algorithm=\toks31
+\c@algorithm=\count127
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\algorithmicx\algpseudocode.sty"
+Package: algpseudocode 
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\algorithmicx\algorithmicx.sty"
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count128
+\c@ALG@rem=\count129
+\c@ALG@nested=\count130
+\ALG@tlm=\skip53
+\ALG@thistlm=\skip54
+\c@ALG@Lnr=\count131
+\c@ALG@blocknr=\count132
+\c@ALG@storecount=\count133
+\c@ALG@tmpcounter=\count134
+\ALG@tmplength=\skip55
+)
+Document Style - pseudocode environments for use with the `algorithmicx' style
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\commath\commath.sty")
+("C:\Program Files\MiKTeX 2.9\tex\latex\textgreek\textgreek.sty"
+Package: textgreek 2011/10/09 v0.7 Greek symbols in text
+Package textgreek Info: Loading the definitions for the Greek fontencoding. on 
+input line 39.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\greek-fontenc\lgrenc.def"
+File: lgrenc.def 2015/12/07 v0.13.1 LGR Greek font encoding definitions
+Now handling font encoding LGR ...
+... processing UTF-8 mapping file for font encoding LGR
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\greek-inputenc\lgrenc.dfu"
+File: lgrenc.dfu 2015/08/05 1.6 UTF-8 support for Greek
+   defining Unicode char U+00A8 (decimal 168)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00AF (decimal 175)
+   defining Unicode char U+00B4 (decimal 180)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+0259 (decimal 601)
+   defining Unicode char U+02D8 (decimal 728)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+0374 (decimal 884)
+   defining Unicode char U+0375 (decimal 885)
+   defining Unicode char U+037A (decimal 890)
+   defining Unicode char U+037E (decimal 894)
+   defining Unicode char U+0384 (decimal 900)
+   defining Unicode char U+0385 (decimal 901)
+   defining Unicode char U+0386 (decimal 902)
+   defining Unicode char U+0387 (decimal 903)
+   defining Unicode char U+0388 (decimal 904)
+   defining Unicode char U+0389 (decimal 905)
+   defining Unicode char U+038A (decimal 906)
+   defining Unicode char U+038C (decimal 908)
+   defining Unicode char U+038E (decimal 910)
+   defining Unicode char U+038F (decimal 911)
+   defining Unicode char U+0390 (decimal 912)
+   defining Unicode char U+0391 (decimal 913)
+   defining Unicode char U+0392 (decimal 914)
+   defining Unicode char U+0393 (decimal 915)
+   defining Unicode char U+0394 (decimal 916)
+   defining Unicode char U+0395 (decimal 917)
+   defining Unicode char U+0396 (decimal 918)
+   defining Unicode char U+0397 (decimal 919)
+   defining Unicode char U+0398 (decimal 920)
+   defining Unicode char U+0399 (decimal 921)
+   defining Unicode char U+039A (decimal 922)
+   defining Unicode char U+039B (decimal 923)
+   defining Unicode char U+039C (decimal 924)
+   defining Unicode char U+039D (decimal 925)
+   defining Unicode char U+039E (decimal 926)
+   defining Unicode char U+039F (decimal 927)
+   defining Unicode char U+03A0 (decimal 928)
+   defining Unicode char U+03A1 (decimal 929)
+   defining Unicode char U+03A3 (decimal 931)
+   defining Unicode char U+03A4 (decimal 932)
+   defining Unicode char U+03A5 (decimal 933)
+   defining Unicode char U+03A6 (decimal 934)
+   defining Unicode char U+03A7 (decimal 935)
+   defining Unicode char U+03A8 (decimal 936)
+   defining Unicode char U+03A9 (decimal 937)
+   defining Unicode char U+03AA (decimal 938)
+   defining Unicode char U+03AB (decimal 939)
+   defining Unicode char U+03AC (decimal 940)
+   defining Unicode char U+03AD (decimal 941)
+   defining Unicode char U+03AE (decimal 942)
+   defining Unicode char U+03AF (decimal 943)
+   defining Unicode char U+03B0 (decimal 944)
+   defining Unicode char U+03B1 (decimal 945)
+   defining Unicode char U+03B2 (decimal 946)
+   defining Unicode char U+03B3 (decimal 947)
+   defining Unicode char U+03B4 (decimal 948)
+   defining Unicode char U+03B5 (decimal 949)
+   defining Unicode char U+03B6 (decimal 950)
+   defining Unicode char U+03B7 (decimal 951)
+   defining Unicode char U+03B8 (decimal 952)
+   defining Unicode char U+03B9 (decimal 953)
+   defining Unicode char U+03BA (decimal 954)
+   defining Unicode char U+03BB (decimal 955)
+   defining Unicode char U+03BC (decimal 956)
+   defining Unicode char U+03BD (decimal 957)
+   defining Unicode char U+03BE (decimal 958)
+   defining Unicode char U+03BF (decimal 959)
+   defining Unicode char U+03C0 (decimal 960)
+   defining Unicode char U+03C1 (decimal 961)
+   defining Unicode char U+03C2 (decimal 962)
+   defining Unicode char U+03C3 (decimal 963)
+   defining Unicode char U+03C4 (decimal 964)
+   defining Unicode char U+03C5 (decimal 965)
+   defining Unicode char U+03C6 (decimal 966)
+   defining Unicode char U+03C7 (decimal 967)
+   defining Unicode char U+03C8 (decimal 968)
+   defining Unicode char U+03C9 (decimal 969)
+   defining Unicode char U+03CA (decimal 970)
+   defining Unicode char U+03CB (decimal 971)
+   defining Unicode char U+03CC (decimal 972)
+   defining Unicode char U+03CD (decimal 973)
+   defining Unicode char U+03CE (decimal 974)
+   defining Unicode char U+03D0 (decimal 976)
+   defining Unicode char U+03D1 (decimal 977)
+   defining Unicode char U+03D5 (decimal 981)
+   defining Unicode char U+03D6 (decimal 982)
+   defining Unicode char U+03D8 (decimal 984)
+   defining Unicode char U+03D9 (decimal 985)
+   defining Unicode char U+03DA (decimal 986)
+   defining Unicode char U+03DB (decimal 987)
+   defining Unicode char U+03DC (decimal 988)
+   defining Unicode char U+03DD (decimal 989)
+   defining Unicode char U+03DF (decimal 991)
+   defining Unicode char U+03E0 (decimal 992)
+   defining Unicode char U+03E1 (decimal 993)
+   defining Unicode char U+03F0 (decimal 1008)
+   defining Unicode char U+03F1 (decimal 1009)
+   defining Unicode char U+03F4 (decimal 1012)
+   defining Unicode char U+03F5 (decimal 1013)
+   defining Unicode char U+1F00 (decimal 7936)
+   defining Unicode char U+1F01 (decimal 7937)
+   defining Unicode char U+1F02 (decimal 7938)
+   defining Unicode char U+1F03 (decimal 7939)
+   defining Unicode char U+1F04 (decimal 7940)
+   defining Unicode char U+1F05 (decimal 7941)
+   defining Unicode char U+1F06 (decimal 7942)
+   defining Unicode char U+1F07 (decimal 7943)
+   defining Unicode char U+1F08 (decimal 7944)
+   defining Unicode char U+1F09 (decimal 7945)
+   defining Unicode char U+1F0A (decimal 7946)
+   defining Unicode char U+1F0B (decimal 7947)
+   defining Unicode char U+1F0C (decimal 7948)
+   defining Unicode char U+1F0D (decimal 7949)
+   defining Unicode char U+1F0E (decimal 7950)
+   defining Unicode char U+1F0F (decimal 7951)
+   defining Unicode char U+1F10 (decimal 7952)
+   defining Unicode char U+1F11 (decimal 7953)
+   defining Unicode char U+1F12 (decimal 7954)
+   defining Unicode char U+1F13 (decimal 7955)
+   defining Unicode char U+1F14 (decimal 7956)
+   defining Unicode char U+1F15 (decimal 7957)
+   defining Unicode char U+1F18 (decimal 7960)
+   defining Unicode char U+1F19 (decimal 7961)
+   defining Unicode char U+1F1A (decimal 7962)
+   defining Unicode char U+1F1B (decimal 7963)
+   defining Unicode char U+1F1C (decimal 7964)
+   defining Unicode char U+1F1D (decimal 7965)
+   defining Unicode char U+1F20 (decimal 7968)
+   defining Unicode char U+1F21 (decimal 7969)
+   defining Unicode char U+1F22 (decimal 7970)
+   defining Unicode char U+1F23 (decimal 7971)
+   defining Unicode char U+1F24 (decimal 7972)
+   defining Unicode char U+1F25 (decimal 7973)
+   defining Unicode char U+1F26 (decimal 7974)
+   defining Unicode char U+1F27 (decimal 7975)
+   defining Unicode char U+1F28 (decimal 7976)
+   defining Unicode char U+1F29 (decimal 7977)
+   defining Unicode char U+1F2A (decimal 7978)
+   defining Unicode char U+1F2B (decimal 7979)
+   defining Unicode char U+1F2C (decimal 7980)
+   defining Unicode char U+1F2D (decimal 7981)
+   defining Unicode char U+1F2E (decimal 7982)
+   defining Unicode char U+1F2F (decimal 7983)
+   defining Unicode char U+1F30 (decimal 7984)
+   defining Unicode char U+1F31 (decimal 7985)
+   defining Unicode char U+1F32 (decimal 7986)
+   defining Unicode char U+1F33 (decimal 7987)
+   defining Unicode char U+1F34 (decimal 7988)
+   defining Unicode char U+1F35 (decimal 7989)
+   defining Unicode char U+1F36 (decimal 7990)
+   defining Unicode char U+1F37 (decimal 7991)
+   defining Unicode char U+1F38 (decimal 7992)
+   defining Unicode char U+1F39 (decimal 7993)
+   defining Unicode char U+1F3A (decimal 7994)
+   defining Unicode char U+1F3B (decimal 7995)
+   defining Unicode char U+1F3C (decimal 7996)
+   defining Unicode char U+1F3D (decimal 7997)
+   defining Unicode char U+1F3E (decimal 7998)
+   defining Unicode char U+1F3F (decimal 7999)
+   defining Unicode char U+1F40 (decimal 8000)
+   defining Unicode char U+1F41 (decimal 8001)
+   defining Unicode char U+1F42 (decimal 8002)
+   defining Unicode char U+1F43 (decimal 8003)
+   defining Unicode char U+1F44 (decimal 8004)
+   defining Unicode char U+1F45 (decimal 8005)
+   defining Unicode char U+1F48 (decimal 8008)
+   defining Unicode char U+1F49 (decimal 8009)
+   defining Unicode char U+1F4A (decimal 8010)
+   defining Unicode char U+1F4B (decimal 8011)
+   defining Unicode char U+1F4C (decimal 8012)
+   defining Unicode char U+1F4D (decimal 8013)
+   defining Unicode char U+1F50 (decimal 8016)
+   defining Unicode char U+1F51 (decimal 8017)
+   defining Unicode char U+1F52 (decimal 8018)
+   defining Unicode char U+1F53 (decimal 8019)
+   defining Unicode char U+1F54 (decimal 8020)
+   defining Unicode char U+1F55 (decimal 8021)
+   defining Unicode char U+1F56 (decimal 8022)
+   defining Unicode char U+1F57 (decimal 8023)
+   defining Unicode char U+1F59 (decimal 8025)
+   defining Unicode char U+1F5B (decimal 8027)
+   defining Unicode char U+1F5D (decimal 8029)
+   defining Unicode char U+1F5F (decimal 8031)
+   defining Unicode char U+1F60 (decimal 8032)
+   defining Unicode char U+1F61 (decimal 8033)
+   defining Unicode char U+1F62 (decimal 8034)
+   defining Unicode char U+1F63 (decimal 8035)
+   defining Unicode char U+1F64 (decimal 8036)
+   defining Unicode char U+1F65 (decimal 8037)
+   defining Unicode char U+1F66 (decimal 8038)
+   defining Unicode char U+1F67 (decimal 8039)
+   defining Unicode char U+1F68 (decimal 8040)
+   defining Unicode char U+1F69 (decimal 8041)
+   defining Unicode char U+1F6A (decimal 8042)
+   defining Unicode char U+1F6B (decimal 8043)
+   defining Unicode char U+1F6C (decimal 8044)
+   defining Unicode char U+1F6D (decimal 8045)
+   defining Unicode char U+1F6E (decimal 8046)
+   defining Unicode char U+1F6F (decimal 8047)
+   defining Unicode char U+1F70 (decimal 8048)
+   defining Unicode char U+1F71 (decimal 8049)
+   defining Unicode char U+1F72 (decimal 8050)
+   defining Unicode char U+1F73 (decimal 8051)
+   defining Unicode char U+1F74 (decimal 8052)
+   defining Unicode char U+1F75 (decimal 8053)
+   defining Unicode char U+1F76 (decimal 8054)
+   defining Unicode char U+1F77 (decimal 8055)
+   defining Unicode char U+1F78 (decimal 8056)
+   defining Unicode char U+1F79 (decimal 8057)
+   defining Unicode char U+1F7A (decimal 8058)
+   defining Unicode char U+1F7B (decimal 8059)
+   defining Unicode char U+1F7C (decimal 8060)
+   defining Unicode char U+1F7D (decimal 8061)
+   defining Unicode char U+1F80 (decimal 8064)
+   defining Unicode char U+1F81 (decimal 8065)
+   defining Unicode char U+1F82 (decimal 8066)
+   defining Unicode char U+1F83 (decimal 8067)
+   defining Unicode char U+1F84 (decimal 8068)
+   defining Unicode char U+1F85 (decimal 8069)
+   defining Unicode char U+1F86 (decimal 8070)
+   defining Unicode char U+1F87 (decimal 8071)
+   defining Unicode char U+1F88 (decimal 8072)
+   defining Unicode char U+1F89 (decimal 8073)
+   defining Unicode char U+1F8A (decimal 8074)
+   defining Unicode char U+1F8B (decimal 8075)
+   defining Unicode char U+1F8C (decimal 8076)
+   defining Unicode char U+1F8D (decimal 8077)
+   defining Unicode char U+1F8E (decimal 8078)
+   defining Unicode char U+1F8F (decimal 8079)
+   defining Unicode char U+1F90 (decimal 8080)
+   defining Unicode char U+1F91 (decimal 8081)
+   defining Unicode char U+1F92 (decimal 8082)
+   defining Unicode char U+1F93 (decimal 8083)
+   defining Unicode char U+1F94 (decimal 8084)
+   defining Unicode char U+1F95 (decimal 8085)
+   defining Unicode char U+1F96 (decimal 8086)
+   defining Unicode char U+1F97 (decimal 8087)
+   defining Unicode char U+1F98 (decimal 8088)
+   defining Unicode char U+1F99 (decimal 8089)
+   defining Unicode char U+1F9A (decimal 8090)
+   defining Unicode char U+1F9B (decimal 8091)
+   defining Unicode char U+1F9C (decimal 8092)
+   defining Unicode char U+1F9D (decimal 8093)
+   defining Unicode char U+1F9E (decimal 8094)
+   defining Unicode char U+1F9F (decimal 8095)
+   defining Unicode char U+1FA0 (decimal 8096)
+   defining Unicode char U+1FA1 (decimal 8097)
+   defining Unicode char U+1FA2 (decimal 8098)
+   defining Unicode char U+1FA3 (decimal 8099)
+   defining Unicode char U+1FA4 (decimal 8100)
+   defining Unicode char U+1FA5 (decimal 8101)
+   defining Unicode char U+1FA6 (decimal 8102)
+   defining Unicode char U+1FA7 (decimal 8103)
+   defining Unicode char U+1FA8 (decimal 8104)
+   defining Unicode char U+1FA9 (decimal 8105)
+   defining Unicode char U+1FAA (decimal 8106)
+   defining Unicode char U+1FAB (decimal 8107)
+   defining Unicode char U+1FAC (decimal 8108)
+   defining Unicode char U+1FAD (decimal 8109)
+   defining Unicode char U+1FAE (decimal 8110)
+   defining Unicode char U+1FAF (decimal 8111)
+   defining Unicode char U+1FB0 (decimal 8112)
+   defining Unicode char U+1FB1 (decimal 8113)
+   defining Unicode char U+1FB2 (decimal 8114)
+   defining Unicode char U+1FB3 (decimal 8115)
+   defining Unicode char U+1FB4 (decimal 8116)
+   defining Unicode char U+1FB6 (decimal 8118)
+   defining Unicode char U+1FB7 (decimal 8119)
+   defining Unicode char U+1FB8 (decimal 8120)
+   defining Unicode char U+1FB9 (decimal 8121)
+   defining Unicode char U+1FBA (decimal 8122)
+   defining Unicode char U+1FBB (decimal 8123)
+   defining Unicode char U+1FBC (decimal 8124)
+   defining Unicode char U+1FBD (decimal 8125)
+   defining Unicode char U+1FBE (decimal 8126)
+   defining Unicode char U+1FBF (decimal 8127)
+   defining Unicode char U+1FC0 (decimal 8128)
+   defining Unicode char U+1FC1 (decimal 8129)
+   defining Unicode char U+1FC2 (decimal 8130)
+   defining Unicode char U+1FC3 (decimal 8131)
+   defining Unicode char U+1FC4 (decimal 8132)
+   defining Unicode char U+1FC6 (decimal 8134)
+   defining Unicode char U+1FC7 (decimal 8135)
+   defining Unicode char U+1FC8 (decimal 8136)
+   defining Unicode char U+1FC9 (decimal 8137)
+   defining Unicode char U+1FCA (decimal 8138)
+   defining Unicode char U+1FCB (decimal 8139)
+   defining Unicode char U+1FCC (decimal 8140)
+   defining Unicode char U+1FCD (decimal 8141)
+   defining Unicode char U+1FCE (decimal 8142)
+   defining Unicode char U+1FCF (decimal 8143)
+   defining Unicode char U+1FD0 (decimal 8144)
+   defining Unicode char U+1FD1 (decimal 8145)
+   defining Unicode char U+1FD2 (decimal 8146)
+   defining Unicode char U+1FD3 (decimal 8147)
+   defining Unicode char U+1FD6 (decimal 8150)
+   defining Unicode char U+1FD7 (decimal 8151)
+   defining Unicode char U+1FD8 (decimal 8152)
+   defining Unicode char U+1FD9 (decimal 8153)
+   defining Unicode char U+1FDA (decimal 8154)
+   defining Unicode char U+1FDB (decimal 8155)
+   defining Unicode char U+1FDD (decimal 8157)
+   defining Unicode char U+1FDE (decimal 8158)
+   defining Unicode char U+1FDF (decimal 8159)
+   defining Unicode char U+1FE0 (decimal 8160)
+   defining Unicode char U+1FE1 (decimal 8161)
+   defining Unicode char U+1FE2 (decimal 8162)
+   defining Unicode char U+1FE3 (decimal 8163)
+   defining Unicode char U+1FE4 (decimal 8164)
+   defining Unicode char U+1FE5 (decimal 8165)
+   defining Unicode char U+1FE6 (decimal 8166)
+   defining Unicode char U+1FE7 (decimal 8167)
+   defining Unicode char U+1FE8 (decimal 8168)
+   defining Unicode char U+1FE9 (decimal 8169)
+   defining Unicode char U+1FEA (decimal 8170)
+   defining Unicode char U+1FEB (decimal 8171)
+   defining Unicode char U+1FEC (decimal 8172)
+   defining Unicode char U+1FED (decimal 8173)
+   defining Unicode char U+1FEE (decimal 8174)
+   defining Unicode char U+1FEF (decimal 8175)
+   defining Unicode char U+1FF2 (decimal 8178)
+   defining Unicode char U+1FF3 (decimal 8179)
+   defining Unicode char U+1FF4 (decimal 8180)
+   defining Unicode char U+1FF6 (decimal 8182)
+   defining Unicode char U+1FF7 (decimal 8183)
+   defining Unicode char U+1FF8 (decimal 8184)
+   defining Unicode char U+1FF9 (decimal 8185)
+   defining Unicode char U+1FFA (decimal 8186)
+   defining Unicode char U+1FFB (decimal 8187)
+   defining Unicode char U+1FFC (decimal 8188)
+   defining Unicode char U+1FFD (decimal 8189)
+   defining Unicode char U+1FFE (decimal 8190)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+2126 (decimal 8486)
+   defining Unicode char U+10144 (decimal 65860)
+   defining Unicode char U+10145 (decimal 65861)
+   defining Unicode char U+10146 (decimal 65862)
+   defining Unicode char U+10147 (decimal 65863)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\greek-fontenc\greek-fontenc.def"
+File: greek-fontenc.def 2015/08/04 v0.13 Common Greek font encoding definitions
+
+))
+Package textgreek Info: Loaded fontmap: {phv/*/*}{U/psy/*/*} {*/bx/n}{U/eur/b/n
+} {*/b/n}{U/eur/b/n} {*/*/n}{U/eur/m/n} {*/*/it}{OML/*/*/*}. on input line 69.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks32
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+)
+\Gin@req@height=\dimen166
+\Gin@req@width=\dimen167
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\textcomp.sty"
+Package: textcomp 2017/04/05 v2.0i Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1enc.def"
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+Now handling font encoding TS1 ...
+... processing UTF-8 mapping file for font encoding TS1
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1enc.dfu"
+File: ts1enc.dfu 2018/04/05 v1.2c UTF-8 support for inputenc
+   defining Unicode char U+00A2 (decimal 162)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A5 (decimal 165)
+   defining Unicode char U+00A6 (decimal 166)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00A8 (decimal 168)
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AC (decimal 172)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00AF (decimal 175)
+   defining Unicode char U+00B0 (decimal 176)
+   defining Unicode char U+00B1 (decimal 177)
+   defining Unicode char U+00B2 (decimal 178)
+   defining Unicode char U+00B3 (decimal 179)
+   defining Unicode char U+00B4 (decimal 180)
+   defining Unicode char U+00B5 (decimal 181)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00B9 (decimal 185)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+00BC (decimal 188)
+   defining Unicode char U+00BD (decimal 189)
+   defining Unicode char U+00BE (decimal 190)
+   defining Unicode char U+00D7 (decimal 215)
+   defining Unicode char U+00F7 (decimal 247)
+   defining Unicode char U+0192 (decimal 402)
+   defining Unicode char U+02C7 (decimal 711)
+   defining Unicode char U+02D8 (decimal 728)
+   defining Unicode char U+02DD (decimal 733)
+   defining Unicode char U+0E3F (decimal 3647)
+   defining Unicode char U+2016 (decimal 8214)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+203B (decimal 8251)
+   defining Unicode char U+203D (decimal 8253)
+   defining Unicode char U+2044 (decimal 8260)
+   defining Unicode char U+204E (decimal 8270)
+   defining Unicode char U+2052 (decimal 8274)
+   defining Unicode char U+20A1 (decimal 8353)
+   defining Unicode char U+20A4 (decimal 8356)
+   defining Unicode char U+20A6 (decimal 8358)
+   defining Unicode char U+20A9 (decimal 8361)
+   defining Unicode char U+20AB (decimal 8363)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+20B1 (decimal 8369)
+   defining Unicode char U+2103 (decimal 8451)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2117 (decimal 8471)
+   defining Unicode char U+211E (decimal 8478)
+   defining Unicode char U+2120 (decimal 8480)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2126 (decimal 8486)
+   defining Unicode char U+2127 (decimal 8487)
+   defining Unicode char U+212E (decimal 8494)
+   defining Unicode char U+2190 (decimal 8592)
+   defining Unicode char U+2191 (decimal 8593)
+   defining Unicode char U+2192 (decimal 8594)
+   defining Unicode char U+2193 (decimal 8595)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2422 (decimal 9250)
+   defining Unicode char U+25E6 (decimal 9702)
+   defining Unicode char U+25EF (decimal 9711)
+   defining Unicode char U+266A (decimal 9834)
+   defining Unicode char U+FEFF (decimal 65279)
+))
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\bm.sty"
+Package: bm 2017/01/16 v1.2c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup7
+\symboldletters=\mathgroup8
+\symboldsymbols=\mathgroup9
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
+LaTeX Info: Redefining \bm on input line 207.
+)
+No file IEEE_TRO_Latex.aux.
+\openout1 = `IEEE_TRO_Latex.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 53.
+LaTeX Font Info:    Try loading font information for LGR+cmr on input line 53.
+("C:\Program Files\MiKTeX 2.9\tex\latex\cbfonts-fd\lgrcmr.fd"
+File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
+)
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 53.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 53.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 53.
+
+-- Lines per column: 58 (exact).
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count135
+\scratchdimen=\dimen168
+\scratchbox=\box38
+\nofMPsegments=\count136
+\nofMParguments=\count137
+\everyMPshowfont=\toks33
+\MPscratchCnt=\count138
+\MPscratchDim=\dimen169
+\MPnumerator=\count139
+\makeMPintoPDFobject=\count140
+\everyMPtoPDFconversion=\toks34
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 73.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 73.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 81.
+
+
+LaTeX Warning: Citation `Soni' on page 1 undefined on input line 83.
+
+
+LaTeX Warning: Citation `Shih' on page 1 undefined on input line 83.
+
+
+LaTeX Warning: Citation `Zang' on page 1 undefined on input line 83.
+
+
+LaTeX Warning: Citation `Kwon' on page 1 undefined on input line 83.
+
+
+LaTeX Warning: Citation `Chortos' on page 1 undefined on input line 83.
+
+
+LaTeX Warning: Citation `Lee' on page 1 undefined on input line 83.
+
+
+LaTeX Warning: Citation `Sundaram' on page 1 undefined on input line 83.
+
+
+LaTeX Warning: Citation `Amjadi' on page 1 undefined on input line 83.
+
+
+LaTeX Warning: Citation `Wang' on page 1 undefined on input line 83.
+
+
+LaTeX Warning: Citation `Ravinder' on page 1 undefined on input line 83.
+
+
+LaTeX Warning: Citation `Schmitz' on page 1 undefined on input line 85.
+
+
+LaTeX Warning: Citation `Philipp' on page 1 undefined on input line 85.
+
+
+LaTeX Warning: Citation `Quentin' on page 1 undefined on input line 85.
+
+
+LaTeX Warning: Citation `Cheng' on page 1 undefined on input line 85.
+
+
+LaTeX Warning: Citation `Shimonomura' on page 1 undefined on input line 88.
+
+
+LaTeX Warning: Citation `Alexander' on page 1 undefined on input line 88.
+
+
+LaTeX Warning: Citation `Yuan' on page 1 undefined on input line 88.
+
+
+LaTeX Warning: Citation `Sato' on page 1 undefined on input line 88.
+
+
+LaTeX Warning: Citation `Ward' on page 1 undefined on input line 88.
+
+[1{C:/Users/Van Ho/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+
+]
+
+LaTeX Warning: Citation `Ito' on page 2 undefined on input line 91.
+
+
+LaTeX Warning: Citation `Greminger' on page 2 undefined on input line 91.
+
+
+LaTeX Warning: Citation `Reddy' on page 2 undefined on input line 91.
+
+
+LaTeX Warning: Citation `Yuan' on page 2 undefined on input line 91.
+
+
+LaTeX Warning: Citation `Aviles' on page 2 undefined on input line 91.
+
+
+LaTeX Warning: Citation `Duriez' on page 2 undefined on input line 91.
+
+
+LaTeX Warning: Reference `fig_design' on page 2 undefined on input line 93.
+
+
+LaTeX Warning: Citation `Duong' on page 2 undefined on input line 93.
+
+LaTeX Font Info:    Try loading font information for TS1+ptm on input line 95.
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ts1ptm.fd"
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+<system_design.pdf, id=9, 441.49611pt x 335.19626pt>
+File: system_design.pdf Graphic file (type pdf)
+<use system_design.pdf>
+Package pdftex.def Info: system_design.pdf  used on input line 103.
+(pdftex.def)             Requested size: 252.0pt x 191.3298pt.
+
+
+LaTeX Warning: Reference `fig_design' on page 2 undefined on input line 109.
+
+LaTeX Font Info:    Try loading font information for U+msa on input line 109.
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 109.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 109.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\jknappen\ursfs.fd"
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+(skin_fabrication.pdf_tex
+<skin_fabrication.pdf, id=10, page=1, 436.87215pt x 425.33302pt>
+File: skin_fabrication.pdf Graphic file (type pdf)
+<use skin_fabrication.pdf, page 1>
+Package pdftex.def Info: skin_fabrication.pdf , page1 used on input line 56.
+(pdftex.def)             Requested size: 252.0pt x 245.34988pt.
+) [2 <./system_design.pdf>]
+
+LaTeX Warning: Reference `fig_fabrication' on page 3 undefined on input line 12
+1.
+
+
+LaTeX Warning: Reference `fig_fabrication' on page 3 undefined on input line 12
+1.
+
+
+LaTeX Warning: Reference `fig_fabrication' on page 3 undefined on input line 12
+1.
+
+(camera_configuration.pdf_tex
+<camera_configuration.pdf, id=62, page=1, 368.80249pt x 365.6549pt>
+File: camera_configuration.pdf Graphic file (type pdf)
+<use camera_configuration.pdf, page 1>
+Package pdftex.def Info: camera_configuration.pdf , page1 used on input line 56
+.
+(pdftex.def)             Requested size: 252.0pt x 249.8472pt.
+)
+
+LaTeX Warning: Reference `fig_stereo' on page 3 undefined on input line 131.
+
+
+LaTeX Warning: Reference `fig_stereo' on page 3 undefined on input line 131.
+
+[3 <./skin_fabrication.pdf> <./camera_configuration.pdf
+
+pdfTeX warning: pdflatex (file ./camera_configuration.pdf): PDF inclusion: mult
+iple pdfs with page group included in a single page
+>]
+
+LaTeX Warning: Reference `fig_stereo' on page 4 undefined on input line 146.
+
+
+LaTeX Warning: Reference `eq_stereo_1' on page 4 undefined on input line 146.
+
+
+LaTeX Warning: Reference `fig_stereo' on page 4 undefined on input line 154.
+
+
+LaTeX Warning: Reference `eq_stereo_r12' on page 4 undefined on input line 159.
+
+
+
+LaTeX Warning: Reference `fig_stereo' on page 4 undefined on input line 167.
+
+
+LaTeX Warning: Reference `eq_stereo_Z' on page 4 undefined on input line 186.
+
+
+LaTeX Warning: Reference `eq_stereo_Y' on page 4 undefined on input line 186.
+
+(camera_variation.pdf_tex
+<camera_variation.pdf, id=444, page=1, 479.44795pt x 249.13084pt>
+File: camera_variation.pdf Graphic file (type pdf)
+<use camera_variation.pdf, page 1>
+Package pdftex.def Info: camera_variation.pdf , page1 used on input line 56.
+(pdftex.def)             Requested size: 252.0pt x 130.9439pt.
+)
+
+LaTeX Warning: Citation `Das' on page 4 undefined on input line 194.
+
+
+LaTeX Warning: Reference `eq_stereo_Z' on page 4 undefined on input line 194.
+
+
+LaTeX Warning: Reference `eq_stereo_R' on page 4 undefined on input line 194.
+
+
+LaTeX Warning: Reference `eq_stereo_r12' on page 4 undefined on input line 201.
+
+
+
+LaTeX Warning: Reference `eq_stereo_dZ' on page 4 undefined on input line 201.
+
+
+LaTeX Warning: Reference `eq_stereo_dR' on page 4 undefined on input line 201.
+
+
+LaTeX Warning: Reference `eq_stereo_dZ2' on page 4 undefined on input line 211.
+
+
+
+LaTeX Warning: Reference `eq_stereo_dR2' on page 4 undefined on input line 211.
+
+
+
+LaTeX Warning: Reference `fig_variation' on page 4 undefined on input line 211.
+
+
+
+LaTeX Warning: Reference `fig_variation' on page 4 undefined on input line 211.
+
+
+
+LaTeX Warning: Reference `fig_variation' on page 4 undefined on input line 211.
+
+
+[4 <./camera_variation.pdf>]
+
+LaTeX Warning: Reference `fig_performance' on page 5 undefined on input line 21
+5.
+
+
+LaTeX Warning: Reference `fig_model' on page 5 undefined on input line 215.
+
+
+LaTeX Warning: Reference `fig_performance' on page 5 undefined on input line 22
+0.
+
+
+LaTeX Warning: Citation `Sakuma' on page 5 undefined on input line 222.
+
+
+LaTeX Warning: Citation `Myronenko' on page 5 undefined on input line 222.
+
+
+LaTeX Warning: Citation `Vandini' on page 5 undefined on input line 222.
+
+
+LaTeX Warning: Reference `fig_performance' on page 5 undefined on input line 22
+4.
+
+
+LaTeX Warning: Reference `fig_tracking' on page 5 undefined on input line 224.
+
+(camera_performance.pdf_tex
+<camera_performance.pdf, id=2113, page=1, 513.03339pt x 454.7629pt>
+File: camera_performance.pdf Graphic file (type pdf)
+<use camera_performance.pdf, page 1>
+Package pdftex.def Info: camera_performance.pdf , page1 used on input line 56.
+(pdftex.def)             Requested size: 252.0pt x 223.37701pt.
+) (camera_tracking.pdf_tex
+<camera_tracking.pdf, id=2114, page=1, 195.3738pt x 89.36931pt>
+File: camera_tracking.pdf Graphic file (type pdf)
+<use camera_tracking.pdf, page 1>
+Package pdftex.def Info: camera_tracking.pdf , page1 used on input line 56.
+(pdftex.def)             Requested size: 252.0pt x 115.27869pt.
+)
+
+LaTeX Warning: Reference `fig_performance' on page 5 undefined on input line 23
+9.
+
+
+LaTeX Warning: Reference `fig_performance' on page 5 undefined on input line 23
+9.
+
+
+LaTeX Warning: Reference `fig_tracking' on page 5 undefined on input line 241.
+
+[5 <./camera_performance.pdf> <./camera_tracking.pdf
+
+pdfTeX warning: pdflatex (file ./camera_tracking.pdf): PDF inclusion: multiple 
+pdfs with page group included in a single page
+>]
+
+LaTeX Warning: Reference `fig_tracking' on page 6 undefined on input line 265.
+
+
+LaTeX Warning: Reference `eq_stereo_roi' on page 6 undefined on input line 272.
+
+
+
+LaTeX Warning: Reference `algorithm1' on page 6 undefined on input line 272.
+
+
+LaTeX Warning: Reference `eq_stereo_Z' on page 6 undefined on input line 274.
+
+
+LaTeX Warning: Reference `eq_stereo_Y' on page 6 undefined on input line 274.
+
+
+LaTeX Warning: Reference `eq_stereo_1' on page 6 undefined on input line 274.
+
+
+LaTeX Warning: Reference `eq_stereo_1' on page 6 undefined on input line 285.
+
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 287.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1pcr.fd"
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+
+LaTeX Warning: Reference `eq_stereo_track' on page 6 undefined on input line 30
+0.
+
+
+LaTeX Warning: Reference `eq_stereo_roi' on page 6 undefined on input line 300.
+
+
+
+LaTeX Warning: Reference `fig_tracking' on page 6 undefined on input line 309.
+
+
+LaTeX Warning: Reference `eq_stereo_obj' on page 6 undefined on input line 309.
+
+
+
+LaTeX Warning: Reference `fig_performance' on page 6 undefined on input line 30
+9.
+
+
+LaTeX Warning: Citation `Zhang' on page 6 undefined on input line 311.
+
+
+LaTeX Warning: Reference `eq_stereo_r12' on page 6 undefined on input line 315.
+
+
+[6]
+
+LaTeX Warning: Reference `eq_stereo_cali' on page 7 undefined on input line 324
+.
+
+
+LaTeX Warning: Reference `eq_stereo_r12' on page 7 undefined on input line 342.
+
+
+
+LaTeX Warning: Reference `eq_stereo_cali' on page 7 undefined on input line 342
+.
+
+
+LaTeX Warning: Citation `Fitzgibbon' on page 7 undefined on input line 342.
+
+
+LaTeX Warning: Reference `eq_stereo_cali' on page 7 undefined on input line 351
+.
+
+
+LaTeX Warning: Reference `eq_stereo_r12' on page 7 undefined on input line 351.
+
+
+
+LaTeX Warning: Reference `eq_stereo_r1' on page 7 undefined on input line 351.
+
+
+LaTeX Warning: Reference `eq_stereo_r2' on page 7 undefined on input line 351.
+
+
+LaTeX Warning: Reference `eq_stereo_cali' on page 7 undefined on input line 359
+.
+
+
+LaTeX Warning: Reference `fig_iteration' on page 7 undefined on input line 359.
+
+
+(camera_iteration.pdf_tex
+<camera_iteration.pdf, id=4019, page=1, 613.56339pt x 275.50502pt>
+File: camera_iteration.pdf Graphic file (type pdf)
+<use camera_iteration.pdf, page 1>
+Package pdftex.def Info: camera_iteration.pdf , page1 used on input line 56.
+(pdftex.def)             Requested size: 252.0pt x 113.15536pt.
+) (camera_calibration.pdf_tex
+<camera_calibration.pdf, id=4020, page=1, 542.97313pt x 605.82426pt>
+File: camera_calibration.pdf Graphic file (type pdf)
+<use camera_calibration.pdf, page 1>
+Package pdftex.def Info: camera_calibration.pdf , page1 used on input line 56.
+(pdftex.def)             Requested size: 252.0pt x 281.1692pt.
+)
+
+LaTeX Warning: Reference `fig_stereo' on page 7 undefined on input line 372.
+
+
+LaTeX Warning: Reference `fig_design' on page 7 undefined on input line 372.
+
+
+LaTeX Warning: Reference `fig_calib3D' on page 7 undefined on input line 372.
+
+[7 <./camera_iteration.pdf> <./camera_calibration.pdf
+
+pdfTeX warning: pdflatex (file ./camera_calibration.pdf): PDF inclusion: multip
+le pdfs with page group included in a single page
+>]
+
+LaTeX Warning: Citation `Onate' on page 8 undefined on input line 376.
+
+
+LaTeX Warning: Reference `fig_model' on page 8 undefined on input line 378.
+
+
+LaTeX Warning: Reference `fig_model' on page 8 undefined on input line 378.
+
+
+LaTeX Warning: Reference `fig_model' on page 8 undefined on input line 378.
+
+
+LaTeX Warning: Reference `eq_stereo_16' on page 8 undefined on input line 378.
+
+
+LaTeX Warning: Reference `fig_model' on page 8 undefined on input line 378.
+
+
+LaTeX Warning: Reference `fig_model' on page 8 undefined on input line 380.
+
+
+LaTeX Warning: Citation `Onate' on page 8 undefined on input line 380.
+
+
+LaTeX Warning: Reference `fig_model' on page 8 undefined on input line 382.
+
+
+LaTeX Warning: Reference `eq_fem_localeq' on page 8 undefined on input line 395
+.
+
+
+LaTeX Warning: Reference `eq_fem_pressured' on page 8 undefined on input line 3
+95.
+
+
+LaTeX Warning: Reference `eq_fem_localeq' on page 8 undefined on input line 396
+.
+
+(fem_model.pdf_tex
+<fem_model.pdf, id=4037, page=1, 490.37096pt x 507.35745pt>
+File: fem_model.pdf Graphic file (type pdf)
+<use fem_model.pdf, page 1>
+Package pdftex.def Info: fem_model.pdf , page1 used on input line 56.
+(pdftex.def)             Requested size: 252.0pt x 260.73074pt.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 417.
+
+Overfull \hbox (2.40596pt too wide) in paragraph at lines 414--452
+ [][] 
+ []
+
+
+LaTeX Warning: Reference `eq_fem_globaleq' on page 8 undefined on input line 45
+3.
+
+
+LaTeX Warning: Reference `eq_fem_equation' on page 8 undefined on input line 46
+1.
+
+
+LaTeX Warning: Reference `eq_fem_equation' on page 8 undefined on input line 46
+8.
+
+
+LaTeX Warning: Reference `eq_fem_boundary' on page 8 undefined on input line 46
+8.
+
+
+LaTeX Warning: Citation `Young' on page 8 undefined on input line 468.
+
+
+LaTeX Warning: Reference `fig_simulation' on page 8 undefined on input line 468
+.
+
+
+LaTeX Warning: Reference `fig_simulation' on page 8 undefined on input line 468
+.
+
+
+LaTeX Warning: Reference `fig_simulation' on page 8 undefined on input line 468
+.
+
+[8 <./fem_model.pdf>]
+
+LaTeX Warning: Reference `eq_fem_equation' on page 9 undefined on input line 47
+1.
+
+
+LaTeX Warning: Reference `fig_simulation' on page 9 undefined on input line 486
+.
+
+
+LaTeX Warning: Reference `eq_fem_equation' on page 9 undefined on input line 48
+6.
+
+
+LaTeX Warning: Reference `eq_fem_boundary' on page 9 undefined on input line 48
+6.
+
+(fem_simulation.pdf_tex
+<fem_simulation.pdf, id=4080, page=1, 457.17706pt x 430.53386pt>
+File: fem_simulation.pdf Graphic file (type pdf)
+<use fem_simulation.pdf, page 1>
+Package pdftex.def Info: fem_simulation.pdf , page1 used on input line 56.
+(pdftex.def)             Requested size: 252.0pt x 237.31334pt.
+)
+
+LaTeX Warning: Reference `fig_experiment' on page 9 undefined on input line 500
+.
+
+[9 <./fem_simulation.pdf>]
+
+LaTeX Warning: Reference `fig_experiment' on page 10 undefined on input line 50
+5.
+
+
+LaTeX Warning: Reference `fig_accurancy' on page 10 undefined on input line 505
+.
+
+
+LaTeX Warning: Reference `fig_performance' on page 10 undefined on input line 5
+05.
+
+
+LaTeX Warning: Reference `eq_experiment_calib' on page 10 undefined on input li
+ne 516.
+
+
+LaTeX Warning: Reference `eq_experiment_E' on page 10 undefined on input line 5
+16.
+
+
+LaTeX Warning: Reference `eq_experiment_E' on page 10 undefined on input line 5
+17.
+
+
+LaTeX Warning: Reference `fig_calibration' on page 10 undefined on input line 5
+17.
+
+(experiment_setup.pdf_tex
+<experiment_setup.pdf, id=6941, page=1, 639.3325pt x 400.92786pt>
+File: experiment_setup.pdf Graphic file (type pdf)
+<use experiment_setup.pdf, page 1>
+Package pdftex.def Info: experiment_setup.pdf , page1 used on input line 56.
+(pdftex.def)             Requested size: 252.0pt x 158.02522pt.
+) (experiment_accurancy.pdf_tex
+<experiment_accurancy.pdf, id=6942, page=1, 542.65614pt x 276.47107pt>
+File: experiment_accurancy.pdf Graphic file (type pdf)
+<use experiment_accurancy.pdf, page 1>
+Package pdftex.def Info: experiment_accurancy.pdf , page1 used on input line 56
+.
+(pdftex.def)             Requested size: 252.0pt x 128.38896pt.
+)
+(experiment_inflation.pdf_tex
+<experiment_inflation.pdf, id=6943, page=1, 542.65614pt x 277.17897pt>
+File: experiment_inflation.pdf Graphic file (type pdf)
+<use experiment_inflation.pdf, page 1>
+Package pdftex.def Info: experiment_inflation.pdf , page1 used on input line 56
+.
+(pdftex.def)             Requested size: 252.0pt x 128.7177pt.
+)
+
+LaTeX Warning: Reference `eq_fem_equation' on page 10 undefined on input line 5
+38.
+
+
+LaTeX Warning: Reference `eq_fem_force' on page 10 undefined on input line 538.
+
+
+
+LaTeX Warning: Reference `fig_experiment' on page 10 undefined on input line 53
+9.
+
+
+LaTeX Warning: Reference `eq_fem_equation' on page 10 undefined on input line 5
+39.
+
+
+LaTeX Warning: Reference `fig_exp_force' on page 10 undefined on input line 539
+.
+
+[10 <./experiment_setup.pdf> <./experiment_accurancy.pdf
+
+pdfTeX warning: pdflatex (file ./experiment_accurancy.pdf): PDF inclusion: mult
+iple pdfs with page group included in a single page
+> <./experiment_inflation.pdf
+
+pdfTeX warning: pdflatex (file ./experiment_inflation.pdf): PDF inclusion: mult
+iple pdfs with page group included in a single page
+>]
+
+LaTeX Warning: Reference `fig_exp_force' on page 11 undefined on input line 541
+.
+
+
+LaTeX Warning: Reference `fig_model' on page 11 undefined on input line 541.
+
+
+LaTeX Warning: Reference `fig_reconstruction' on page 11 undefined on input lin
+e 541.
+
+
+LaTeX Warning: Reference `fig_reconstruction' on page 11 undefined on input lin
+e 545.
+
+
+LaTeX Warning: Citation `Yuan' on page 11 undefined on input line 545.
+
+
+LaTeX Warning: Citation `Sato' on page 11 undefined on input line 545.
+
+
+LaTeX Warning: Citation `Ito' on page 11 undefined on input line 545.
+
+
+LaTeX Warning: Citation `Schmitz' on page 11 undefined on input line 545.
+
+
+LaTeX Warning: Citation `Philipp' on page 11 undefined on input line 545.
+
+(experiment_force.pdf_tex
+<experiment_force.pdf, id=6966, page=1, 542.6559pt x 308.7208pt>
+File: experiment_force.pdf Graphic file (type pdf)
+<use experiment_force.pdf, page 1>
+Package pdftex.def Info: experiment_force.pdf , page1 used on input line 56.
+(pdftex.def)             Requested size: 252.0pt x 143.36525pt.
+) (force_resconstruction.pdf_tex
+<force_resconstruction.pdf, id=6967, page=1, 456.00183pt x 427.4864pt>
+File: force_resconstruction.pdf Graphic file (type pdf)
+<use force_resconstruction.pdf, page 1>
+Package pdftex.def Info: force_resconstruction.pdf , page1 used on input line 5
+6.
+(pdftex.def)             Requested size: 252.0pt x 236.24017pt.
+)
+Underfull \hbox (badness 2020) in paragraph at lines 545--558
+ \OT1/ptm/m/it/10 2) Mul-ti-ple Large-Areas Con-tact: [][] \OT1/ptm/m/n/10 Be-c
+ause the aim of
+ []
+
+
+Underfull \vbox (badness 3386) has occurred while \output is active []
+
+
+
+LaTeX Warning: Reference `eq_fem_pvw' on page 11 undefined on input line 560.
+
+[11 <./experiment_force.pdf> <./force_resconstruction.pdf
+
+pdfTeX warning: pdflatex (file ./force_resconstruction.pdf): PDF inclusion: mul
+tiple pdfs with page group included in a single page
+>]
+
+LaTeX Warning: Citation `Belyaev' on page 12 undefined on input line 562.
+
+
+LaTeX Warning: Reference `fig_model' on page 12 undefined on input line 590.
+
+
+LaTeX Warning: Citation `Onate' on page 12 undefined on input line 592.
+
+
+LaTeX Warning: Reference `eq_fem_disp' on page 12 undefined on input line 592.
+
+
+LaTeX Warning: Reference `eq_fem_disp' on page 12 undefined on input line 687.
+
+
+LaTeX Warning: Reference `eq_fem_stress' on page 12 undefined on input line 687
+.
+
+
+LaTeX Warning: Reference `eq_fem_pvw' on page 12 undefined on input line 687.
+
+
+LaTeX Warning: Reference `eq_fem_localeq' on page 12 undefined on input line 68
+7.
+
+
+LaTeX Warning: Citation `Onate' on page 12 undefined on input line 687.
+
+[12]
+
+LaTeX Warning: Reference `eq_fem_stiffness' on page 13 undefined on input line 
+695.
+
+
+LaTeX Warning: Citation `Young' on page 13 undefined on input line 695.
+
+
+LaTeX Warning: Reference `fig_model' on page 13 undefined on input line 726.
+
+
+Underfull \hbox (badness 1442) in paragraph at lines 781--782
+[]\OT1/ptm/m/n/8 Sato, K., Kamiyama, K., Kawakami, N., Tachi, S. ``Finger-shape
+d
+ []
+
+<lac.png, id=10234, 589.49648pt x 569.53075pt>
+File: lac.png Graphic file (type png)
+<use lac.png>
+Package pdftex.def Info: lac.png  used on input line 834.
+(pdftex.def)             Requested size: 72.26567pt x 69.81808pt.
+File: lac.png Graphic file (type png)
+<use lac.png>
+Package pdftex.def Info: lac.png  used on input line 834.
+(pdftex.def)             Requested size: 72.26567pt x 69.81808pt.
+<van.jpg, id=10237, 393.94235pt x 439.99677pt>
+File: van.jpg Graphic file (type jpg)
+<use van.jpg>
+Package pdftex.def Info: van.jpg  used on input line 838.
+(pdftex.def)             Requested size: 72.26506pt x 80.71332pt.
+File: van.jpg Graphic file (type jpg)
+<use van.jpg>
+Package pdftex.def Info: van.jpg  used on input line 838.
+(pdftex.def)             Requested size: 72.26506pt x 80.71332pt.
+[13 <./lac.png>] [14
+
+ <./van.jpg>] (IEEE_TRO_Latex.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 6770 strings out of 492970
+ 100442 string characters out of 3135850
+ 176935 words of memory out of 3000000
+ 10426 multiletter control sequences out of 15000+200000
+ 43046 words of font info for 99 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,22n,37p,1652b,365s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmbsy10.pfb><C:/Program Files/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cmextra/cmbsy7.pfb><C:/Program Files/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmbx8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmm
+i5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C
+:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program
+ Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmmib10.pfb><C:/Program Files/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cmextra/cmmib8.pfb><C:/Program Files/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmr5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb>
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Prog
+ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Program Files
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Program Files/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symb
+ols/msam10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols
+/msam7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msb
+m10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Pro
+gram Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
+/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8
+a.pfb>
+Output written on IEEE_TRO_Latex.pdf (14 pages, 4378229 bytes).
+PDF statistics:
+ 10349 PDF objects out of 10688 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 110 words of extra memory for PDF output out of 10000 (max. 10000000)
+
