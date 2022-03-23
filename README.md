@@ -35,8 +35,8 @@ https://github.com/lacduong/TacLINK/blob/master/Source/model/CastingMold.stp
 <img width="900" src="https://github.com/lacduong/TacLINK/blob/master/Source/model/3D%20design.png" > 
 </p>
 
-
-# The guide for implementation the TacLINK is coming soon...
+ 
+<!---  The guide for implementation the TacLINK is coming soon... --->
 
 # Contact information
 
@@ -44,6 +44,6 @@ Duong Van Lac
 
 Email: duonglacbk@gmail.com
 
-The work on this website is based on my volunteer work without any financial support and sponsorship, so it may take time to complete this website. If you interest please feel free to contact me. If the source is helpful for you, please support me by citing the paper.
+<!--- The work on this website is based on my volunteer work without any financial support and sponsorship, so it may take time to complete this website. If you interest please feel free to contact me. If the source is helpful for you, please support me by citing the paper.--->
 
 
